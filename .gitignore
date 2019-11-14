@@ -1,7 +1,7 @@
 # directories
 node_modules/
-loftph_live_test/
 .tmp/
 
 # Environment Variables
 .env
+package-lock.json

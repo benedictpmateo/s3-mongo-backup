@@ -1,0 +1,20 @@
+{
+  "name": "mongo-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.354.0",
+    "colors": "^1.3.2",
+    "dotenv": "^6.1.0",
+    "moment": "^2.22.2",
+    "node-cron": "^2.0.3",
+    "s3-mongo-backup": "^2.0.2"
+  }
+}

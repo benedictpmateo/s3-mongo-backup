@@ -1,5 +1,5 @@
 /**
- * @author Benedict Mateo <benedict.mateo@august99.com>
+ * @author Benedict Mateo <benedictpmateo@gmail.com>
  * @description Backup Database using task scheduler
  */
 const dotenv = require('dotenv');
